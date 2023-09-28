@@ -6,6 +6,14 @@
 "solucion" : "Este es un ticket para reclamar por el servidor de cliente",
 "problema.naturaleza.id" : 111,
 "ultimo_contacto" :  "28-Sep-2023"
+},
+{ 
+"id" : "2222222222222",
+"cliente.id" : "colla.maria",
+"estado_solución" : 1,
+"solucion" : "Este es un ticket para reclamar por el servidor de cliente",
+"problema.naturaleza.id" : 112,
+"ultimo_contacto" :  "27-Sep-2023"
 }
 ]
 
