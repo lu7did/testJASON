@@ -1,23 +1,23 @@
 [
   {
     "id":1,
-    "cliente.id","colla.pedro",
+    "cliente.id":"colla.pedro",
     "estado_solucion":1,
-    "solucion","ticket para reportar que no anda el producto",
-    "ultimo_contacto","25-Sep-2023"
+    "solucion":"ticket para reportar que no anda el producto",
+    "ultimo_contacto":"25-Sep-2023"
   },
   {
     "id":2,
-    "cliente.id","colla.pedro",
+    "cliente.id":"colla.pedro",
     "estado_solucion":1,
-    "solucion","ticket para reportar que no anda el producto",
-    "ultimo_contacto","25-Sep-2023"
+    "solucion":"ticket para reportar que el producto sigue sin andar",
+    "ultimo_contacto":"26-Sep-2023"
   },
   {
     "id":3,
-    "cliente.id","colla.pedro",
+    "cliente.id":"colla.maria",
     "estado_solucion":1,
-    "solucion","ticket para reportar que no anda el producto",
-    "ultimo_contacto","25-Sep-2023"
+    "solucion":"ticket para reportar que no anda el producto",
+    "ultimo_contacto":"27-Sep-2023"
   }
 ]
