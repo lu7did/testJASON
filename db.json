@@ -2,11 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
-    },
-    {
-      "id": 2,
-      "title": "hi"
+      "cliente.id": "colla.pedro",
+      "solución": "requerimiento de soporte",
+      "estado_solución":1,
+      "ultimo_contacto":"28-Sep-2023"
     }
   ],
   "profile": {
