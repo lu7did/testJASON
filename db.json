@@ -1,4 +1,5 @@
-[
+{
+  "posts": [ 
   {
     "id":1,
     "cliente.id":"colla.pedro",
@@ -21,3 +22,4 @@
     "ultimo_contacto":"27-Sep-2023"
   }
 ]
+}
