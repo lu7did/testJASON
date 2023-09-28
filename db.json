@@ -1,3 +1,4 @@
+[
 { 
 "id" : "1111111111111111",
 "cliente.id" : "colla.pedro",
@@ -6,5 +7,6 @@
 "problema.naturaleza.id" : 111,
 "ultimo_contacto" :  "28-Sep-2023"
 }
+]
 
 
