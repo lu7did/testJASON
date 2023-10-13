@@ -2,9 +2,6 @@
   "posts": [
     {
       "id": 1,
-      "contacto": "pedro_colla@hotmail.com",
-      "solución": "requerimiento de soporte",
-      "estado_solución":1,
       "password":"secret"
     }
   ],
