@@ -1,15 +1,42 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "password": "secret"
-    },
-    {
-      "id": 2,
-      "password": "secret"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{
+"id"	 		:	1,
+"activo"		:	false,
+"registrado"		:	false,
+"contacto"		:	"pedro_colla@hotmail.com",
+"fecha_alta"		:	"29/09/2023",
+"fecha_cambio_password"	:	"29/09/2023",
+"fecha_ultimo_ingreso"  :	"29/09/2023",
+"nombre"		:	"Pedro E. Colla",
+"password"		:	"secret"
+},
+{
+"id"	 		:	2,
+"activo"		:	false,
+"registrado"		:	false,
+"contacto"		:	"pedro_colla@gmail.com",
+"fecha_alta"		:	"29/09/2023",
+"fecha_cambio_password"	:	"29/09/2023",
+"fecha_ultimo_ingreso"  :	"29/09/2023",
+"nombre"		:	"Pedro E. Colla",
+"password"		:	"ultrasecret"
+},
+{
+"id"	 		:	3,
+"activo"		:	false,
+"registrado"		:	false,
+"contacto"		:	
+"colla.pedro@uader.edu.ar",
+"fecha_alta"		:	"29/09/2023",
+"fecha_cambio_password"	:	"29/09/2023",
+"fecha_ultimo_ingreso"  :	"29/09/2023",
+"nombre"		:	"Pedro E. Colla",
+"password"		:	"moresecret"
 }
+
+],
+  "profile": { "name": "typicode" }
+}
+
+
