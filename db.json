@@ -2,10 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "cliente.id": "colla.pedro",
+      "contacto": "pedro_colla@hotmail.com",
+      "nombre": "Dr. Pedro E. Colla",
       "solución": "requerimiento de soporte",
       "estado_solución":1,
       "ultimo_contacto":"28-Sep-2023"
+      "password":"secret"
     }
   ],
   "profile": {
