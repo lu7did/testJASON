@@ -36,6 +36,34 @@
 }
 
 ],
+  "ticket": [
+{
+"id"                      : "1",
+"clienteID"               : "1",
+"estado_solucion"         : 1,
+"solucion"                : "Carga inicial del ticket para reportar que no anda el aplicativo",
+"ultimo_contacto"         : "01-Sep-2023",
+"problemas.naturaleza.id" : "N/A"
+}
+,
+{
+"id"                      : "2",
+"clienteID"               : "1",
+"estado_solucion"         : 2,
+"solucion"                : "Reclamo porque la apliación está lenta",
+"ultimo_contacto"         : "01-Sep-2023",
+"problemas.naturaleza.id" : "N/A"
+}
+,
+{
+"id"                      : "3",
+"clienteID"               : "2",
+"estado_solucion"         : 1,
+"solucion"                : "No permite acceder a la información",
+"ultimo_contacto"         : "01-Sep-2023",
+"problemas.naturaleza.id" : "N/A"
+}
+],
   "profile": { "name": "typicode" }
 }
 
